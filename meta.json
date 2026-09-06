@@ -1,0 +1,23 @@
+{
+  "repo": "freshbooks-invoicing-manager",
+  "product": "FreshBooks Invoicing Manager",
+  "kind": "finance",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "finance",
+  "topics": [
+    "freshbooks",
+    "time-billing",
+    "expense-inbox",
+    "client-portal",
+    "recurring-invoices",
+    "freshbooks-setup-failed-fix",
+    "how-to-install-freshbooks",
+    "freshbooks-windows",
+    "freshbooks-desktop-2026",
+    "freshbooks-desktop-package"
+  ],
+  "site": "toolix.me"
+}
